@@ -1,0 +1,11 @@
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myApp/obj/Debug/netcoreapp2.2/myApp.pdb

@@ -1,0 +1,11 @@
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myConsoleApp/bin/Debug/netcoreapp2.2/myConsoleApp.deps.json
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myConsoleApp/bin/Debug/netcoreapp2.2/myConsoleApp.runtimeconfig.json
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myConsoleApp/bin/Debug/netcoreapp2.2/myConsoleApp.runtimeconfig.dev.json
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myConsoleApp/bin/Debug/netcoreapp2.2/myConsoleApp.dll
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myConsoleApp/bin/Debug/netcoreapp2.2/myConsoleApp.pdb
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myConsoleApp/obj/Debug/netcoreapp2.2/myConsoleApp.csprojAssemblyReference.cache
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myConsoleApp/obj/Debug/netcoreapp2.2/myConsoleApp.csproj.CoreCompileInputs.cache
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myConsoleApp/obj/Debug/netcoreapp2.2/myConsoleApp.AssemblyInfoInputs.cache
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myConsoleApp/obj/Debug/netcoreapp2.2/myConsoleApp.AssemblyInfo.cs
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myConsoleApp/obj/Debug/netcoreapp2.2/myConsoleApp.dll
+/Users/DarlingPressStudio/Desktop/codeLyfe/DotNet/myConsoleApp/obj/Debug/netcoreapp2.2/myConsoleApp.pdb
